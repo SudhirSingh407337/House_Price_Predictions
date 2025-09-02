@@ -8,7 +8,7 @@ This project demonstrates how to **predict house prices** based on various prope
 - 🤖 **Machine Learning** – trained regression models to predict house prices with comprehensive evaluation metrics
 - 🎯 **Goal** – improve prediction performance and understand how different normalization techniques impact model performance
 
-## Dataset
+## 📊 Dataset
 The Housing dataset contains samples of houses with the following key features:
 - Area (square ft)
 - Number of bedrooms and bathrooms
@@ -20,7 +20,7 @@ The Housing dataset contains samples of houses with the following key features:
 
 Each house has an associated price which is our target variable for prediction.
 
-## Key Techniques Implemented
+## 🛠 Key Techniques Implemented
 
 1. **Data Exploration & Visualization**
    - Distribution analysis of house prices
@@ -60,7 +60,7 @@ Each house has an associated price which is our target variable for prediction.
    - Comparison of scaling techniques' impact on model performance
    - Feature importance analysis to identify key price predictors
 
-## Results
+## 📈 Results
 The analysis revealed that Gradient Boosting generally performed best for housing price prediction, with the RobustScaler showing advantages for handling outliers present in real estate data. The feature engineering steps, particularly the creation of interaction terms, contributed significantly to model performance.
 
 Key findings:
@@ -69,7 +69,7 @@ Key findings:
 - Gradient Boosting offered the best balance of performance and generalization
 - RobustScaler proved valuable for handling the skewed distributions common in housing data
 
-## Requirements
+## 📦 Requirements
 - Python
 - pandas
 - numpy
@@ -77,18 +77,18 @@ Key findings:
 - seaborn
 - scikit-learn
 
-## How to Use
+## 🚀 How to Use
 1. Clone this repository
 2. Ensure you have all required packages installed
 3. Open the Jupyter notebook `House_Price_Prediction.ipynb`
 4. Run the cells sequentially to see the analysis and results
 
-## File Structure
+## 📂 File Structure
 - `House_Price_Prediction.ipynb` - The main Jupyter notebook containing all analysis and code
 - `Housing.csv` - The dataset file
 - `README.md` - This file with project information
 
-## Key Insights
+## 💡 Key Insights
 - Feature engineering, particularly interaction terms like area_per_bedroom and premium_property, significantly improves prediction performance
 - Normalization technique selection matters - RobustScaler performs better when data contains outliers (common in housing prices)
 - Gradient Boosting models offer superior performance for house price prediction tasks
