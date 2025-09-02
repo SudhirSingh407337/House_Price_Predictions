@@ -9,6 +9,10 @@ This project demonstrates how to **predict house prices** based on various prope
 - 🎯 **Goal** – improve prediction performance and understand how different normalization techniques impact model performance
 
 ## 📊 Dataset
+[![House Price Prediction Dataset](https://img.youtube.com/vi/ijs5XtXmvQM/0.jpg)](https://youtu.be/ijs5XtXmvQM)
+
+🎥 [House Price Prediction Dataset](https://youtu.be/ijs5XtXmvQM) 🎥
+
 The Housing dataset contains samples of houses with the following key features:
 - Area (square ft)
 - Number of bedrooms and bathrooms
@@ -21,12 +25,19 @@ The Housing dataset contains samples of houses with the following key features:
 Each house has an associated price which is our target variable for prediction.
 
 ## 🛠 Key Techniques Implemented
+[![House Price Prediction Data Exploration & Visualization](https://img.youtube.com/vi/t-2oaa0K0vY/0.jpg)](https://youtu.be/t-2oaa0K0vY)
+
+🎥 [House Price Prediction Data Exploration & Visualization](https://youtu.be/t-2oaa0K0vY) 🎥  
 
 1. **Data Exploration & Visualization**
    - Distribution analysis of house prices
    - Correlation analysis between numerical features
    - Feature relationship visualization with scatter and box plots
    - Analysis of categorical features' impact on price
+     
+[![House Price Prediction Feature Engineering & Data Preprocessing](https://img.youtube.com/vi/5WuoL1_IPIw/0.jpg)](https://youtu.be/5WuoL1_IPIw)
+
+🎥  [House Price Prediction Feature Engineering & Data Preprocessing](https://youtu.be/5WuoL1_IPIw) 🎥   
 
 2. **Feature Engineering**
    - Binary encoding for yes/no categorical features
@@ -37,6 +48,10 @@ Each house has an associated price which is our target variable for prediction.
      - Premium property indicator
      - Area and location interaction
      - Stories and area interaction
+       
+[![House Price Prediction Feature Engineering & Data Preprocessing](https://img.youtube.com/vi/5WuoL1_IPIw/0.jpg)](https://youtu.be/5WuoL1_IPIw)
+
+🎥  [House Price Prediction Feature Engineering & Data Preprocessing](https://youtu.be/5WuoL1_IPIw) 🎥 
 
 3. **Data Preprocessing & Normalization**
    - Train-test split for model evaluation
@@ -45,6 +60,10 @@ Each house has an associated price which is our target variable for prediction.
      - MinMaxScaler (0-1 scaling)
      - RobustScaler (median and IQR based scaling)
    - Visual comparison of scaling impacts on feature distributions
+     
+[![House Price Prediction Model Training & Evaluation](https://img.youtube.com/vi/dBa6o5l3p8E/0.jpg)](https://youtu.be/dBa6o5l3p8E)
+
+🎥 [House Price Prediction Model Training & Evaluation](https://youtu.be/dBa6o5l3p8E) 🎥  
 
 4. **Model Training & Evaluation**
    - Linear Regression
