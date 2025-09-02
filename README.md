@@ -37,7 +37,7 @@ Each house has an associated price which is our target variable for prediction.
      
 [![House Price Prediction Feature Engineering & Data Preprocessing](https://img.youtube.com/vi/5WuoL1_IPIw/0.jpg)](https://youtu.be/5WuoL1_IPIw)
 
-🎥  [House Price Prediction Feature Engineering & Data Preprocessing](https://youtu.be/5WuoL1_IPIw) 🎥   
+🎥  [House Price Prediction Feature Engineering & Data Preprocessing Part 1](https://youtu.be/5WuoL1_IPIw) 🎥   
 
 2. **Feature Engineering**
    - Binary encoding for yes/no categorical features
@@ -51,7 +51,7 @@ Each house has an associated price which is our target variable for prediction.
        
 [![House Price Prediction Feature Engineering & Data Preprocessing](https://img.youtube.com/vi/5WuoL1_IPIw/0.jpg)](https://youtu.be/5WuoL1_IPIw)
 
-🎥  [House Price Prediction Feature Engineering & Data Preprocessing](https://youtu.be/5WuoL1_IPIw) 🎥 
+🎥  [House Price Prediction Feature Engineering & Data Preprocessing Part 2](https://youtu.be/5WuoL1_IPIw) 🎥 
 
 3. **Data Preprocessing & Normalization**
    - Train-test split for model evaluation
